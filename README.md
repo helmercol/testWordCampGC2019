@@ -1,6 +1,9 @@
 # Theme _test_ usado para la presentación en la WordCamp Gran Canaria 2019 "Crea tu propio theme base para WordPress"
 _9 de febrero de 2019_
 
+**Slides de la charla**
+https://slides.com/helmercol/wordcamp-gran-canaria-2019/#/
+
 **Descargas**
 
 Foundation: https://foundation.zurb.com
